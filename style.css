@@ -1,0 +1,20 @@
+h1{
+	color: forestgreen; 
+	text-align: center;
+	font-family: Cambria, sans-serif;
+}
+.img-container {
+	text-align: center;
+}
+html{
+	background: aliceblue;
+}
+h1:hover{
+	color: blueviolet;
+	font-size: 35px;
+}
+
+
+#pic:hover{
+	transform: scale(1.3);
+}
